@@ -86,14 +86,14 @@ The goal of this project is to:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 📁 Temperature-Forecasting/ ├── data/ │ └── daily-minimum-temperatures-in-me.csv ├── notebooks/ │ └── Temperature Forecasting.html (Jupyter Notebook exported as HTML) ├── images/ │ └── plots.png (optional for visuals) ├── README.md └── requirements.txt
 
 ---
 
-## 🛠️ How to Run This Project
+##  How to Run This Project
 
-1. Clone the repo:
+ Clone the repo:
    ```bash
    git clone https://github.com/yourusername/Temperature-Forecasting.git
    cd Temperature-Forecasting
