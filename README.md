@@ -46,7 +46,7 @@ The goal of this project is to:
    - **Seasonal Naiva**: Completed
    - **Simple Exponential Smoothening** (Completed)
    - **ARIMA / SARIMA** (Seasonal ARIMA): Suitable for stationary data with seasonal patterns. (Completed) 
-   - **Holt-Winters Exponential Smoothing**: Modeled seasonality and trend components explicitly. (In-Progess)
+   - **Holt-Winters Exponential Smoothing**: Modeled seasonality and trend components explicitly. (In-Progress)
    - **Regression with Quadratic Trend & Seasonality**: (In Progress)
      - Modeled time and time squared with seasonal dummy variables or Fourier terms.
 
@@ -103,7 +103,7 @@ The goal of this project is to:
 👨‍💻 Author
 
 Shivani Kanodia
-LinkedIn
+
 
 
 
