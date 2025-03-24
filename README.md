@@ -1,5 +1,5 @@
 
-# Temperature Forecasting with Time Series Models
+# Daily Temperature Forecasting using Time Series Analysis
 
 **Status**: Work In Progress  
 **Last Updated**: March 24th 2025
