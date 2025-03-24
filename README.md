@@ -94,11 +94,12 @@ The goal of this project is to:
 ##  How to Run This Project
 
  Clone the repo:
-   ```bash
    git clone https://github.com/yourusername/Temperature-Forecasting.git
    cd Temperature-Forecasting
 
    pip install -r requirements.txt
+
+---
 
 👨‍💻 Author
 
