@@ -1,6 +1,9 @@
 
 # 🌡️ Temperature Forecasting with Time Series Models
 
+🚧 **Status**: Work In Progress  
+📅 **Last Updated**: March 24th 2025
+
 This project focuses on time series forecasting of daily minimum temperatures using statistical models such as ARIMA, SARIMA, Holt-Winters, and Regression with seasonality. The dataset consists of daily minimum temperature data recorded in Melbourne, Australia.
 
 ---
@@ -40,18 +43,20 @@ The goal of this project is to:
    - Decomposed the series into **Trend**, **Seasonality**, and **Residuals**.
 
 4. **Forecasting Models Applied**
-   - **ARIMA / SARIMA** (Seasonal ARIMA): Suitable for stationary data with seasonal patterns.
-   - **Holt-Winters Exponential Smoothing**: Modeled seasonality and trend components explicitly.
-   - **Regression with Quadratic Trend & Seasonality**:
+   - **Seasonal Naiva**: Completed
+   - **Simple Exponential Smoothening** (Completed)
+   - **ARIMA / SARIMA** (Seasonal ARIMA): Suitable for stationary data with seasonal patterns. (Completed) 
+   - **Holt-Winters Exponential Smoothing**: Modeled seasonality and trend components explicitly. (In-Progess)
+   - **Regression with Quadratic Trend & Seasonality**: (In Progress)
      - Modeled time and time squared with seasonal dummy variables or Fourier terms.
 
-5. **Evaluation Metrics**
+6. **Evaluation Metrics**
    - RMSE (Root Mean Square Error)
    - MAE (Mean Absolute Error)
    - MAPE (Mean Absolute Percentage Error)
    - Visual comparison of actual vs. forecasted values.
 
-6. **Forecasting & Visualization**
+7. **Forecasting & Visualization**
    - Forecasted next 365 days of minimum temperatures.
    - Visualized forecasts along with confidence intervals.
    - Compared model predictions on validation data.
@@ -82,4 +87,23 @@ The goal of this project is to:
 ---
 
 ## 📂 Repository Structure
+📁 Temperature-Forecasting/ ├── data/ │ └── daily-minimum-temperatures-in-me.csv ├── notebooks/ │ └── Temperature Forecasting.html (Jupyter Notebook exported as HTML) ├── images/ │ └── plots.png (optional for visuals) ├── README.md └── requirements.txt
+
+---
+
+## 🛠️ How to Run This Project
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/Temperature-Forecasting.git
+   cd Temperature-Forecasting
+
+   pip install -r requirements.txt
+
+👨‍💻 Author
+
+Shivani Kanodia
+LinkedIn
+
+
 
