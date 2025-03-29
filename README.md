@@ -2,7 +2,7 @@
 # Daily Temperature Forecasting using Time Series Analysis
 
 **Status**: Work In Progress  
-**Last Updated**: March 24th 2025
+**Last Updated**: March 29th 2025
 
 This project focuses on time series forecasting of daily minimum temperatures using statistical models such as ARIMA, SARIMA, Holt-Winters, and Regression with seasonality. The dataset consists of daily minimum temperature data recorded in Melbourne, Australia.
 
